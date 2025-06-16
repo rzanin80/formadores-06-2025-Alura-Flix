@@ -1,6 +1,18 @@
 body{
 background-color: black ;
 color: gold ;
-font-family: "Edu NSW ACT Hand Pre", cursive;;
+font-family: "Edu NSW ACT Hand Pre", cursive;
 
+}
+header{
+
+    font-size: 40px;
+}
+
+h1{
+
+    font-size: 60px;
+}
+p {
+  font-size: 40px;
 }
