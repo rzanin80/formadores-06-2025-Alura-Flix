@@ -7,9 +7,9 @@ margin: 0px;
 }
 header{
 
-    font-size: 20px;
-    border: double 5px pink ;
-    margin:30px ;
+    font-size: 50px;
+    border-bottom: double 5px pink ;
+    padding:30px ;
     text-align: center;
 }
 
