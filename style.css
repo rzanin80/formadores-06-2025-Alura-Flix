@@ -8,6 +8,9 @@ margin: 0px;
 header{
 
     font-size: 20px;
+    border: double 5px pink ;
+    margin:30px ;
+    text-align: center;
 }
 
 h1{
