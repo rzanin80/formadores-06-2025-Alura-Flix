@@ -22,7 +22,7 @@ p {
   font-size: 20px;
 }
 section {
-    background-color:rgb(59, 173, 204) ;
+    background-color:rgba(204, 158, 59, 0.87) ;
     padding-bottom: 80px;
     padding-top: 30px;
     display: flex;
