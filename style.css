@@ -24,5 +24,7 @@ p {
 section {
     background-color:rgb(59, 173, 204) ;
     padding-bottom: 80px;
-    padding-top: 80px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
 }
