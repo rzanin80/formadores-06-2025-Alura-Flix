@@ -9,7 +9,7 @@ text-align: center  ;
 header{
 
     font-size: 30px;
-    border-bottom: solid 5px pink ;
+    border-bottom: solid 5px red   ;
     padding:30px ;
     text-align: center;
 }
@@ -22,7 +22,7 @@ p {
   font-size: 20px;
 }
 section {
-    background-color:rgba(204, 158, 59, 0.87) ;
+    background-color:gold  ;
     padding-bottom: 80px;
     padding-top: 30px;
     display: flex;
